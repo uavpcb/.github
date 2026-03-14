@@ -1,1 +1,1 @@
-# .github
+# Wait, we're getting ready :)
